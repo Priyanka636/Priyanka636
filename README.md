@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Priyanka636
-- 👀 I’m interested in android studio, software development
-- 🌱 I’m currently learning android studio
-- 💞️ I’m looking for job as Java Developer and Android Developer
+- 👀 I’m interested in Salesforce development
+- 🌱 I’m currently Salesforce Developer
 - 📫 Here is my linkedIn profile "https://www.linkedin.com/in/priyanka-a3a5611b7"
 
 <!---
